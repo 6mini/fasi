@@ -78,8 +78,14 @@
 
 # Preview
 
+- Home main page
+
 ![image](https://user-images.githubusercontent.com/79494088/141002523-2ac9e0b8-9f0c-4246-830f-9481cbbb68f5.png)
 
+- Upload image
+
 ![image](https://user-images.githubusercontent.com/79494088/141002588-e4ade56a-b12d-4197-8c82-430ee45a7386.png)
+
+- Predict result page
 
 ![image](https://user-images.githubusercontent.com/79494088/141002645-7b466eec-d4df-4d63-8306-47a30beae6bd.png)
