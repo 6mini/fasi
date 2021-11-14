@@ -74,7 +74,7 @@
 
 ![Project4 005](https://user-images.githubusercontent.com/79494088/141001901-f840ad98-b149-4ed9-8fde-4791243efa0f.png)
 
-- [세부 딥러닝 모델링 포스팅 바로가기]()
+- [세부 딥러닝 모델링 포스팅 바로가기](https://6mini.github.io/project/2021/11/14/fasi2/)
 
 # Preview
 
