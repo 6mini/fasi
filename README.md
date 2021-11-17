@@ -29,7 +29,7 @@
 
 - [Deep Learning Project] CNN 이용 패션 스타일 분류 앱(feat. CNN, ResNet50, Flask, Heroku, AWS S3)
 - [웹 사이트 바로가기](https://fasi.herokuapp.com/)
-- [블로그 포스팅 바로가기]()
+- [블로그 포스팅 바로가기](https://6mini.github.io/project/2021/11/13/fasi/)
 
 ## History
 
