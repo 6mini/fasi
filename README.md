@@ -54,6 +54,14 @@
 - Amazon s3 연동 image upload
 - heroku 배포
 
+# Data Pipeline
+
+![스크린샷 2021-11-28 21 44 43](https://user-images.githubusercontent.com/79494088/143771902-9d7a3ff7-3c95-4308-89da-33386b9cfe79.png)
+
+- Selenium 이용 무신사 커뮤니티 스트릿 스냅 이미 크롤링
+  - [크롤러 레포지토리 바로가기](https://github.com/6mini/musinsa-snap-crawler)
+- Amazon s3 연동 image upload
+
 # Indroduction
 
 ![Project4 002](https://user-images.githubusercontent.com/79494088/141001725-8cc430d4-f1f5-437e-96c9-9bec630dbf79.png)
@@ -62,13 +70,6 @@
 
 ![Project4 003](https://user-images.githubusercontent.com/79494088/141001889-df9f1841-e800-47cb-af97-924a3ef07470.png)
 
-## Pipeline
-
-![Project4 001](https://user-images.githubusercontent.com/79494088/141001016-8e6d6195-46ae-49e8-8296-3f03ae706615.png)
-
-- Selenium 이용 무신사 커뮤니티 스트릿 스냅 이미 크롤링
-  - [크롤러 레포지토리 바로가기](https://github.com/6mini/musinsa-snap-crawler)
-- Amazon s3 연동 image upload
 
 ## Deep Learning
 
