@@ -58,9 +58,10 @@
 
 ![스크린샷 2021-11-28 21 44 43](https://user-images.githubusercontent.com/79494088/143771902-9d7a3ff7-3c95-4308-89da-33386b9cfe79.png)
 
-- Selenium 이용 무신사 커뮤니티 스트릿 스냅 이미 크롤링
+- Selenium 이용 무신사 커뮤니티 스트릿 스냅 이미지 크롤링 후 Local에 저장
   - [크롤러 레포지토리 바로가기](https://github.com/6mini/musinsa-snap-crawler)
-- Amazon s3 연동 image upload
+- Flask & Heroku 이용 웹 서버 구축 및 배포
+- Amazon s3 연동 이용자 Image 행동 Data Upload
 
 # Indroduction
 
