@@ -44,13 +44,12 @@
 
 ![image](https://user-images.githubusercontent.com/79494088/143801116-9f065bb0-59a2-4e8a-b298-2166c6c1284d.png)
 
-- 셀레니움을 활용하여 무신사 커뮤니티의 스트릿 스냅 이미지 크롤링 하여 로컬에 저장했다.
+- [셀레니움 활용하여 무신사 커뮤니티의 스트릿 스냅 이미지 크롤링 하여 로컬에 저장한다.](https://6mini.github.io/project/2021/11/13/fasi/)
   - [크롤러 레포지토리 바로가기](https://github.com/6mini/musinsa-snap-crawler)
-- 플라스크(Flask) & 헤로쿠(Heroku)를 이용하여 웹 어플리케이션을 구축 및 배포하였다.
+- [플라스크(Flask) & 헤로쿠(Heroku)를 이용하여 웹 어플리케이션을 구축 및 배포하였다.](https://6mini.github.io/project/2021/11/15/fasi3/)
 - AWS S3과 연동 이용자의 업로드 이미지 행동 데이터가 자동으로 로드되도록 만들었다.
 
 # 딥러닝 모델링
-
 - [딥러닝 모델링 과정 포스팅 바로가기](https://6mini.github.io/project/2021/11/14/fasi2/)
 
 ![Project4 005](https://user-images.githubusercontent.com/79494088/141001901-f840ad98-b149-4ed9-8fde-4791243efa0f.png)
@@ -58,7 +57,8 @@
 - 이미지를 인식하기 위한 패턴을 찾는데 유용한 CNN 모델을 사용했다.
 - 기존 수집 데이터에서 추가 크롤링을 하고 'ResNet-50'을 이용한 전이 학습 후 7가지 클래스에서 60% 정확도의 성능을 가진 모델을 완성했다.
 
-# 간단한 회고
+# 간략 회고
+- [전체 회고 보러가기](https://6mini.github.io/project/2021/11/16/fasi4/)
 
 ![Project4 007](https://user-images.githubusercontent.com/79494088/141003154-19c67885-1774-4cd5-b9cd-3bf25664bc23.png)
 
